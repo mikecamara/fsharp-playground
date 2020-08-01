@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharpConsoleApp", "fsharpConsoleApp\fsharpConsoleApp.fsproj", "{62DC08EA-CC3D-4648-A8EB-4F1FC90D1392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DC08EA-CC3D-4648-A8EB-4F1FC90D1392}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{62DC08EA-CC3D-4648-A8EB-4F1FC90D1392}.Debug|anycpu.Build.0 = Debug|anycpu
+		{62DC08EA-CC3D-4648-A8EB-4F1FC90D1392}.Release|anycpu.ActiveCfg = Release|anycpu
+		{62DC08EA-CC3D-4648-A8EB-4F1FC90D1392}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
